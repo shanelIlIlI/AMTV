@@ -45,6 +45,9 @@ AMTV 把 Apple Music 式的界面搬到电视上：立即聆听、浏览、资�
 ![齿轮舞台](assets/stage-gears.jpg)
 ▲ 视觉舞台 · 齿轮
 
+![唱片墙](assets/record-wall.jpg)
+▲ 唱片墙 · 整墙封面
+
 ## 安装教程
 
 ### 1. 下载
